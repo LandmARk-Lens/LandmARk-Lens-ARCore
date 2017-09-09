@@ -8,3 +8,8 @@ build/
 local.properties
 # OS configurations.
 .DS_Store
+
+# Unity compile
+Temp/
+Library/
+

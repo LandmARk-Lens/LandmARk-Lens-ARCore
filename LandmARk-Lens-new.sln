@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LandmARk-Lens-new.CSharp.Plugins", "LandmARk-Lens-new.CSharp.Plugins.csproj", "{3314FBE1-88E9-49FA-FE49-B21FE56C562D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LandmARk-Lens-new.CSharp", "LandmARk-Lens-new.CSharp.csproj", "{899ADEC2-28A7-48AC-F4C5-7A457584A63B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LandmARk-Lens-new.CSharp.Editor", "LandmARk-Lens-new.CSharp.Editor.csproj", "{A6E35443-87E4-A95C-2F71-F0FC6712A7A1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3314FBE1-88E9-49FA-FE49-B21FE56C562D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3314FBE1-88E9-49FA-FE49-B21FE56C562D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3314FBE1-88E9-49FA-FE49-B21FE56C562D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3314FBE1-88E9-49FA-FE49-B21FE56C562D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{899ADEC2-28A7-48AC-F4C5-7A457584A63B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{899ADEC2-28A7-48AC-F4C5-7A457584A63B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{899ADEC2-28A7-48AC-F4C5-7A457584A63B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{899ADEC2-28A7-48AC-F4C5-7A457584A63B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A6E35443-87E4-A95C-2F71-F0FC6712A7A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6E35443-87E4-A95C-2F71-F0FC6712A7A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6E35443-87E4-A95C-2F71-F0FC6712A7A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6E35443-87E4-A95C-2F71-F0FC6712A7A1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
